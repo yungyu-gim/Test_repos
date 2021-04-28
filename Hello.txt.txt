@@ -1,2 +1,4 @@
 Hi 
 this is test file for newbie
+
+day2
